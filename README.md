@@ -119,8 +119,6 @@ Directly linked to realized revenue.
 
 # 🔍 **Observed Data Insights**
 
-## 📊 Key Insights from AtliQ Grands Analysis
-
 ### ⭐ 1. Overall Guest Satisfaction
 - The **average customer rating is 3.6**, indicating moderate guest satisfaction with clear room for improvement.
 
@@ -128,7 +126,7 @@ Directly linked to realized revenue.
 - Significant **dip in revenue during week 30 and 31**, which directly aligns with declines in:
   - Booking Count  
   - RevPAR  
-- The data shows *random fluctuations* where revenue and bookings drop **16–20%**, then recover, then drop again — indicating **unstable demand patterns** or **lack of a steady pricing/demand strategy**.
+- The data shows *random fluctuations* where revenue and bookings drop **16–20%**, then recover, then drop again — indicating **unstable demand patterns**.
 
 ### 💰 3. No Weekday vs Weekend Pricing Strategy
 - **ADR remains the same** across weekdays and weekends.
@@ -152,8 +150,23 @@ Directly linked to realized revenue.
 - Shows **high occupancy** and **high customer ratings**.
 - Indicates strong operational performance and customer experience.
 
+### 🌐 8. Booking Platform Analysis
+- **MakeMyTrip** contributes **26.6k bookings** — highest among named platforms.
+- **Direct Online** contributes **13.19k bookings**, making it the **second highest official channel**.
+- **“Other” sources contribute 54.36k bookings**, the single largest category but not clearly defined.
 
-### **5. City-Level Performance**
+#### 🔍 Strategic Recommendation
+- **Provide exclusive discounts on Direct Online bookings**  
+  → This is the official channel; boosting it improves profitability by avoiding OTA commissions.
+
+- **Investigate the “Other” category in detail**  
+  → Understanding this large but undefined segment helps in:
+  - Channel optimization  
+  - Targeted partnerships  
+  - More efficient marketing spend  
+  - Incentivizing the most profitable channels  
+
+### **9. City-Level Performance**
 - Bangalore generates highest revenue.
 - Delhi shows highest occupancy.
 
@@ -172,16 +185,11 @@ Adjust room pricing based on:
 - Introduce non-refundable discounted rates  
 - Loyalty points for completed stays  
 
-## **3. Improve Operational Efficiency**
-- Increase staff during peak weekends  
-- Reduce check-in bottlenecks  
-- Improve room turnover process  
-
-## **4. Enhance Loyalty & Repeat Business**
+## **3. Enhance Loyalty & Repeat Business**
 - Personalized app/email offers  
 - Exclusive upgrades for frequent customers  
 
-## **5. Property Audit Program**
+## **4. Property Audit Program**
 Evaluate:
 - Competitor pricing  
 - Service quality  
@@ -219,12 +227,3 @@ This project demonstrates how data-driven intelligence helps AtliQ Grands:
 - Optimize operations  
 - Compete effectively in luxury hotel segment  
 
----
-
-If you want, I can now:
-- Add metrics list  
-- Add business questions  
-- Add your insights  
-- Add visual placeholders  
-
-Just send them and I’ll integrate them.  
