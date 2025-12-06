@@ -119,45 +119,43 @@ Directly linked to realized revenue.
 
 # 🔍 **Observed Data Insights**
 
-## **1. Revenue & Occupancy Trends**
-- Month-wise revenue shows strong weekend peaks.
-- Luxury hotels contribute majority of total revenue.
-- Occupancy rate increases significantly in July compared to May.
+## 📊 Key Insights from AtliQ Grands Analysis
 
-## **2. Cancellation & No-Show Behavior**
-- Business hotels have higher cancellations than luxury hotels.
-- OTAs (Online Travel Agencies) show higher no-show rates.
+### ⭐ 1. Overall Guest Satisfaction
+- The **average customer rating is 3.6**, indicating moderate guest satisfaction with clear room for improvement.
 
-## **3. Ratings Insights**
-- Checked-out customers provide highest average rating.
-- No-show customers give lowest ratings.
+### 📉 2. Revenue & Booking Volatility
+- Significant **dip in revenue during week 30 and 31**, which directly aligns with declines in:
+  - Booking Count  
+  - RevPAR  
+- The data shows *random fluctuations* where revenue and bookings drop **16–20%**, then recover, then drop again — indicating **unstable demand patterns** or **lack of a steady pricing/demand strategy**.
 
-## **4. Room Category Performance**
-- Premium & Elite rooms have highest occupancy.
-- Standard rooms generate volume but lowest revenue contribution.
+### 💰 3. No Weekday vs Weekend Pricing Strategy
+- **ADR remains the same** across weekdays and weekends.
+- This indicates **no dynamic pricing strategy**, resulting in missed revenue opportunities.
 
-## **5. City-Level Performance**
-- Mumbai generates highest revenue.
-- Hyderabad shows high occupancy but lower supply.
+### 🏨 4. Business Mix: Luxury Dominant
+- Majority of revenue comes from **luxury-category hotels**, suggesting:
+  - Strong brand pull in premium segment  
+  - But higher risk during downturns due to price sensitivity
 
----
+### 🚪 5. Room Category Performance
+- **Elite rooms generate the highest revenue**, indicating strong customer preference.
+- **Presidential rooms show the highest occupancy %** among room categories.
 
-# 🧠 **Key Business Insights & Opportunities**
+### 🏚️ 6. Low Performing Property: AtliQ Seasons
+- Lowest **occupancy %**  
+- Lowest **ratings**  
+- Represents a high-priority target for operational and quality improvements.
 
-## **A. Pricing Strategy Insights**
-- Weekends outperform weekdays → dynamic weekend pricing recommended.
-- Luxury rooms underpriced during peak seasons → revenue boost opportunity.
+### 🏨 7. Top Performing Property: AtliQ Blu
+- Shows **high occupancy** and **high customer ratings**.
+- Indicates strong operational performance and customer experience.
 
-## **B. Cancellation & Leakage Control**
-- OTA bookings show higher cancellations → renegotiate or incentivize direct bookings.
-- Prepayment discounts can reduce cancellations & no-shows.
 
-## **C. Customer Experience Improvements**
-- Ratings drop during peak occupancy → staffing mismatch.
-- Loyalty incentives for repeat stays recommended.
-
-## **D. Property-Level Optimization**
-- Some cities show persistent underperformance → requires operational audit.
+### **5. City-Level Performance**
+- Bangalore generates highest revenue.
+- Delhi shows highest occupancy.
 
 ---
 
